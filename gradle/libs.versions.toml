@@ -1,6 +1,5 @@
 [versions]
-agp = "8.13.2"
-kotlin = "2.4.10"
+agp = "9.4.0"
 hotwire-native = "1.3.1"
 
 [libraries]
@@ -9,4 +8,3 @@ hotwire-navigation-fragments = { group = "dev.hotwire", name = "navigation-fragm
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
