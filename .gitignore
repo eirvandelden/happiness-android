@@ -8,3 +8,8 @@ captures/
 .cxx/
 
 !gradle/wrapper/gradle-wrapper.jar
+
+.claude/settings.local.json
+.claude/.cc-writes
+.claude/worktrees/
+.claude/scheduled_tasks.lock
